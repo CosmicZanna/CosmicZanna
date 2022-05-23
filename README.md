@@ -9,7 +9,7 @@ Description!
 
 ## Projects
 
-### 🌎 Wanderlust  [💻Live Version](https://wanderlust-web.netlify.app/) [📄 Repo](https://github.com/CosmicZanna/Wanderlust)[📄 Mobile App Repo] (https://github.com/CosmicZanna/Wanderlust-Mobile)
+### 🌎 Wanderlust  [💻Live Version](https://wanderlust-web.netlify.app/) [📄 Repo](https://github.com/CosmicZanna/Wanderlust)
 A trip-planning application that will accompany you through your many travels. You pick your dates and location and the trip is ready to be planned. Add your friends to the group so you can all see and book flights and hotels. Wanderlust then gives you the points of interest and restaurants to visit, which you can rearrange to your heart's content.
 
 - FE Website & mobile app: TypeScript, React, Next.js, React Native, Expo
