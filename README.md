@@ -1,6 +1,8 @@
-## Welcome to Gabriele Zannini's GitHub page!
+## Welcome to Gabriele Zannini's GitHub page! 🔥
 
-Description!
+Hi! My name is Gabriele and i'm a Full Stack Developer. I found in coding an absolute obsession, and my goal is to make the world a better place one line of code at a time. I like to create useful applications that can improve the quality of life as much as possible. I also enjoy checking the latest techs in the field, it's amazing what a "few" lines of code can create.
+
+Currently obsessing over GPT-3, who knows what will come out from that ;)
 
 [![Linkedin: Gabriele Zannini](https://img.shields.io/badge/-Gabriele_Zannini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriele-zannini/)](https://www.linkedin.com/in/gabriele-zannini/)
 [![GitHub Fav8](https://img.shields.io/github/followers/CosmicZanna?label=follow&style=social)](https://github.com/CosmicZanna)
