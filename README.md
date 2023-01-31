@@ -7,7 +7,7 @@ Currently obsessing over ChatGPT, who knows what will come out from that ;)
 [![Linkedin: Gabriele Zannini](https://img.shields.io/badge/-Gabriele_Zannini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriele-zannini/)](https://www.linkedin.com/in/gabriele-zannini/)
 [![GitHub Fav8](https://img.shields.io/github/followers/CosmicZanna?label=follow&style=social)](https://github.com/CosmicZanna)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CosmicZanna)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CosmicZanna&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Projects
 
 ### 🌎 Wanderlust  [💻Live Version](https://wanderlust-web.netlify.app/) [📄 Repo](https://github.com/CosmicZanna/Wanderlust)
